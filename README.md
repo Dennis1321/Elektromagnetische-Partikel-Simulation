@@ -6,4 +6,4 @@ Ziel der Simulation ist es, die dynamische Wechselwirkung zwischen elektrischen 
 
 Das Projekt verbindet Grundlagen der klassischen Elektrodynamik mit numerischen Integrationsverfahren und bietet eine visuelle Darstellung physikalischer Teilchendynamik.
 
-![Simulation](Partikel Simulation.gif)
+![Simulation](Partikel%20Simulation.gif)
