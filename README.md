@@ -15,4 +15,4 @@ The system is solved numerically using a time-stepping method.
 ## Goal
 To explore classical particle dynamics in electromagnetic fields.
 
-![Simulation](downloads/Bildschirmaufnahme2026-06-12215708-ezgif.com-video-to-gif-converter)
+![Simulation](Bildschirmaufnahme2026-06-12215708-ezgif.com-video-to-gif-converter)
